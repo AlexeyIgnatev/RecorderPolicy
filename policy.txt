@@ -1,0 +1,1 @@
+android.permission.READ_PHONE_STATE, android.permission.GET_ACCOUNTS, android.permission.READ_CONTACTS, android.permission.RECORD_AUDIO permissions use for record audio
